@@ -1,1 +1,3 @@
 # stat545a
+
+exercise 3 edit to your readme

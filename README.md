@@ -18,3 +18,7 @@ References:
 Split-Apply-Combine
  - `group_by`, nesting, `gather()`, `spread()`, `unnest()`  
 http://stat545.com/block024_group-nest-split-map.html
+
+Broom package
+ - helping make statistical inference in a neat way: `tidy`, `augment`, `glance`
+ https://github.com/tidyverse/broom
